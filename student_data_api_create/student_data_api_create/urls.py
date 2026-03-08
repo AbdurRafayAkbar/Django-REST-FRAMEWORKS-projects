@@ -1,5 +1,5 @@
 """
-URL configuration for student_data_api project.
+URL configuration for student_data_api_create project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/6.0/topics/http/urls/
